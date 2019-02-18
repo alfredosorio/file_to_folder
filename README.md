@@ -11,3 +11,12 @@ An application that moves files into directories matching their file names.
 
 - Windows >= 7 SP1
 - PowerShell >= v5.1
+
+## Notes
+
+- Ensure there are no existing folders in the directory you are running the application in.
+
+## Future Enhancements
+
+- Error handling.
+- Ignore existing directories and continue moving files to folders.
